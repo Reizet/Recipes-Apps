@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/app/*.apk
+android/app/*.aab
+
+# iOS
+ios/Pods/
+
+# IDE
+.idea/
+*.iml
+
+# Windows
+*.exe
+*.so
